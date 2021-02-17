@@ -1,6 +1,6 @@
 ![](https://github.com/Matthewpco/Greene-Photo-Site/blob/master/img/RGP-Site1.png?raw=true)
 
-# This is Rachel Greene Photography. Designed with the client in mind and developed to showcase their work, and lead to a custom contact form to capture leads.
+# This is a custom built Photographers site to showcase their work and lead clients to a custom contact form to capture leads.
 
 <br>
 
