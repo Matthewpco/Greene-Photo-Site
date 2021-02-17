@@ -20,7 +20,8 @@
 - Custom landing page
 - Custom contact form
 - 3 image gallery set up on main page
-- 
+- U/I U/X and Visual Design 
+
 <br>
 
 ![](https://github.com/Matthewpco/Greene-Photo-Site/blob/master/img/RGP-Site.png?raw=true)
