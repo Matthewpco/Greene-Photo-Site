@@ -24,4 +24,4 @@
 
 <br>
 
-![](https://github.com/Matthewpco/Greene-Photo-Site/blob/master/img/RGP-Site.png?raw=true)
+![](https://raw.githubusercontent.com/Matthewpco/Greene-Photo-Site/master/img/RGP-Site2.png)
