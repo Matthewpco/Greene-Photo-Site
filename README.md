@@ -1,4 +1,4 @@
-![](https://github.com/Matthewpco/Greene-Photo-Site/blob/master/img/RGP-Site1.png?raw=true)
+![](https://raw.githubusercontent.com/Matthewpco/Greene-Photo-Site/master/img/RGP-Site2.png)
 
 # This is a custom built Photographers site to showcase their work and lead clients to a custom contact form to capture leads.
 
@@ -24,4 +24,4 @@
 
 <br>
 
-![](https://raw.githubusercontent.com/Matthewpco/Greene-Photo-Site/master/img/RGP-Site2.png)
+![](https://raw.githubusercontent.com/Matthewpco/Greene-Photo-Site/master/img/RGP-Site1.png)
